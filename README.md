@@ -26,3 +26,6 @@ To run the Snake and Ladder game on your local machine, follow these steps:-
 3. Download the R.E.Keerthana-snake and ladder.py and R.E.Keerthana-snake and ladder.jpg files
 4. Execute the R.E.Keerthana-snake and ladder.py file
 
+## Additional Information
+
+Explanation of the code block wise, sample game play, bibliography and other additional information are available in the "R.E.Keerthana-Project File.pdf" file
