@@ -19,10 +19,10 @@ This project was developed as part of my Grade 12 curriculum and serves as an ex
 
 ## Getting Started
 
-To run the Snake and Ladder game on your local machine, follow these steps:
+To run the Snake and Ladder game on your local machine, follow these steps:-
 
 1. Install Python on your machine
 2. Install MySql
-3. Download the .py and .jpg files
-4. Execute the .py file, after editing the password of Mysql in the .py file
+3. Download the R.E.Keerthana-snake and ladder.py and R.E.Keerthana-snake and ladder.jpg files
+4. Execute the R.E.Keerthana-snake and ladder.py file
 
